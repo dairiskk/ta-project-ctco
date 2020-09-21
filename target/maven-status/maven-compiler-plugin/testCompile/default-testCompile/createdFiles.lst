@@ -11,11 +11,11 @@ com\Elements\Image.class
 com\Steps\NavigationMenuSteps.class
 com\PageObjects\NavigationMenuPage.class
 com\Steps\VacanciesContentSteps.class
+com\ElementActions.class
 com\Infrastructure\Helpers.class
 com\PageObjects\VacanciesPage.class
 com\Infrastructure\WebDriverUtil.class
 com\Elements\NavigationBar.class
 com\Infrastructure\Wait.class
 com\Elements\ListItem.class
-com\Elements\ElementActions.class
 com\Steps\HomePageSteps.class

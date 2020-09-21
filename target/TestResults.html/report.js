@@ -13,7 +13,7 @@ formatter.feature({
   ]
 });
 formatter.before({
-  "duration": 4671219000,
+  "duration": 4960783800,
   "status": "passed"
 });
 formatter.scenario({
@@ -65,7 +65,7 @@ formatter.match({
   "location": "HomePageSteps.navigateTo(String)"
 });
 formatter.result({
-  "duration": 1692524700,
+  "duration": 1743715000,
   "status": "passed"
 });
 formatter.match({
@@ -78,7 +78,7 @@ formatter.match({
   "location": "NavigationMenuSteps.openMenu(String)"
 });
 formatter.result({
-  "duration": 1299345600,
+  "duration": 1389507200,
   "status": "passed"
 });
 formatter.match({
@@ -91,7 +91,7 @@ formatter.match({
   "location": "NavigationMenuSteps.openMenuLink(String)"
 });
 formatter.result({
-  "duration": 94220899,
+  "duration": 100743100,
   "status": "passed"
 });
 formatter.match({
@@ -104,7 +104,7 @@ formatter.match({
   "location": "VacanciesPageSteps.openMenu(String)"
 });
 formatter.result({
-  "duration": 1403098800,
+  "duration": 1428658300,
   "status": "passed"
 });
 formatter.match({
@@ -121,11 +121,11 @@ formatter.match({
   "location": "VacanciesContentSteps.openMenu(String,String)"
 });
 formatter.result({
-  "duration": 407057700,
+  "duration": 442449700,
   "status": "passed"
 });
 formatter.after({
-  "duration": 645364200,
+  "duration": 643425500,
   "status": "passed"
 });
 });

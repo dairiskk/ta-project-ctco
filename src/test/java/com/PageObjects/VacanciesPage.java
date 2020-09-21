@@ -1,6 +1,6 @@
 package com.PageObjects;
 
-import com.Elements.ElementActions;
+import com.ElementActions;
 import com.Infrastructure.WebDriverUtil;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;

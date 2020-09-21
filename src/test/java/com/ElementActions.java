@@ -1,4 +1,4 @@
-package com.Elements;
+package com;
 
 import com.Infrastructure.Wait;
 import com.Infrastructure.WebDriverUtil;

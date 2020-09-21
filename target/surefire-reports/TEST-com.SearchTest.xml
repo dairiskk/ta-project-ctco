@@ -65,10 +65,10 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="Scenario: Test Automation Engineer skill count" name="Given Navigate to &quot;https://www.ctco.lv/en&quot;" time="0.002"/>
+  <testcase classname="Scenario: Test Automation Engineer skill count" name="Given Navigate to &quot;https://www.ctco.lv/en&quot;" time="0.003"/>
   <testcase classname="Scenario: Test Automation Engineer skill count" name="Then Open &quot;Careers&quot; menu" time="0"/>
   <testcase classname="Scenario: Test Automation Engineer skill count" name="Then Click &quot;Vacancies&quot; from the list" time="0"/>
   <testcase classname="Scenario: Test Automation Engineer skill count" name="And Open vacancy &quot;Test Automation Engineer&quot;" time="0"/>
   <testcase classname="Scenario: Test Automation Engineer skill count" name="Then Verify that paragraph under &quot;Professional skills and qualification:&quot; contains exactly &quot;5&quot; skills" time="0"/>
-  <testcase classname="Scenario: Test Automation Engineer skill count" name="Scenario: Test Automation Engineer skill count" time="0.647"/>
+  <testcase classname="Scenario: Test Automation Engineer skill count" name="Scenario: Test Automation Engineer skill count" time="0.646"/>
 </testsuite>
